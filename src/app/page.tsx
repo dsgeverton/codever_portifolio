@@ -12,7 +12,7 @@ export default function Home() {
       <Portifolio />
       <Footer />
 
-      <a href="http://" target="_blank" rel="noopener noreferrer">
+      <a href="https://api.whatsapp.com/send?phone=55022988437546" target="_blank" rel="noopener noreferrer">
         <Image className="fixed right-6 bottom-6" src={whatsapp} alt="Whatsapp" />
       </a>
     </div>
