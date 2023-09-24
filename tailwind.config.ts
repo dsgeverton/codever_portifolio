@@ -8,7 +8,7 @@ const config: Config = {
   ],
   theme: {
     screens:{
-      s20: '380px'
+      s20: '566px'
     },
     extend: {
       backgroundImage: {
